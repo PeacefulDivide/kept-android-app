@@ -1,4 +1,4 @@
-# Kept: Inventory & Collections
+# Kept: Private Home Inventory
 
 <p align="center">
   <img src="screenshots/kept-1.png" alt="Kept collections screen" height = "320"/>
@@ -6,7 +6,7 @@
   <img src="screenshots/kept-3.png" alt="Kept item details screen" height = "320" />
 </p>
 <p align="center">
-  <em>Collections (Left), items in grid and list layouts (Middle) and item details (Right).</em>
+  <em>Collections (Left), items in grid and list layouts (Middle), and item details (Right).</em>
 </p>
 
 <p align="center">
